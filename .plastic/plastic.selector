@@ -1,0 +1,4 @@
+repository "tarihin bilginleri/tarihin bilginleri@18968197963238@cloud"
+  path "/"
+    br "/main"
+    co "/main"
